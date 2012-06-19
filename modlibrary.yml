@@ -885,7 +885,8 @@ mods:
             v1.2.1:
             v1.2.5:
     z-jackcraft-configs:
-        name: "JackCraft Configuration Files"
+        name: "JackCraft Configs"
+        description: "A collection of configuration files for jackcraft pack"
         installtype: "zip"
         versions:
             v3.0.4:
