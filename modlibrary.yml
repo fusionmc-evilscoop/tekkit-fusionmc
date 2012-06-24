@@ -51,6 +51,7 @@ mods:
             voxelmodpack-v8.2.0:
             voxelmodpack-v8.3.0:
             jackcraft-v3.0.4:
+            jackcraft-v3.0.5:
     adventureitems:
         name: "Adventure Items"
         installtype: "zip"
@@ -266,6 +267,7 @@ mods:
         installtype: "zip"
         modtype: "content"
         versions:
+            v1.4.6.5:
             v1.4.6.1:
             v1.4.5.1:
             v1.4.4.0:
@@ -315,7 +317,7 @@ mods:
         modtype: "content"
         link: "http://www.minecraftforum.net/topic/700588-100smp-forestry-for-minecraft-tree-farms-automated/"
         versions:
-            v1.4.6.2:
+            v1.4.6.2_bc2.2:
             v1.4.0.4:
             v1.4.0.3:
             v1.4.0.2:
@@ -556,6 +558,7 @@ mods:
         modtype: "content"
         link: "http://www.minecraftforum.net/topic/554413-100smp-pcs-mods-minefactory-reloaded-power-converters-and-more-updated-dec-19th/#no"
         versions:
+            v1.2.3:
             v1.2.1:
             v1.1.2:
                 dependencies:
@@ -586,6 +589,7 @@ mods:
         modtype: "content"
         link: "http://www.minecraftforum.net/topic/701990-100-railcraft-221-forge-smp/"
         versions:
+            v5.3.3:
             v5.3.2:
             v5.2.4:
             v5.2.0:
@@ -644,6 +648,7 @@ mods:
         link: "http://www.minecraftforum.net/topic/482147-100b181b19pre5jan01-reis-minimap-v29-01/"
         optional: true
         versions:
+            v3.2._04:
             v3.0_04-1.2.5:
             v3.0_04:
             v3.0_03:
@@ -726,6 +731,7 @@ mods:
         name: "Tube Stuff"
         installtype: "zip"
         versions:
+            v49.0.7:
             v48.2.1:
     twilightforest:
         name: "Twilight Forest"
@@ -889,4 +895,5 @@ mods:
         description: "A collection of configuration files for jackcraft pack"
         installtype: "zip"
         versions:
+            v3.0.5:
             v3.0.4:
