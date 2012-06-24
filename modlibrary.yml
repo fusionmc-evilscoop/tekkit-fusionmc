@@ -396,6 +396,7 @@ mods:
         name: "Immibis Core"
         installtype: "zip"
         versions:
+            v49.0.7:
             v48.2.1:
     ingameinfo:
         name: "In Game Info"
@@ -425,6 +426,7 @@ mods:
         name: "Iron Chests"
         installtype: "zip"
         versions:
+            v3.4.2.28
             v3.3.1.21:
             v2.5:
     lectern:
@@ -731,6 +733,7 @@ mods:
         name: "Tube Stuff"
         installtype: "zip"
         versions:
+            v49.0.8:
             v49.0.7:
             v48.2.1:
     twilightforest:
