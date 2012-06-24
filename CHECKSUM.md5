@@ -8,7 +8,7 @@ c8245a967bdbb9560bd3668327a738ba|hackslashmine/resources/logo.png
 6ac510b04af406f19c3ad8ea40c16090|hackslashmine/resources/favicon.png
 b78240ee304599b7f55981c7fb284792|hackslashmine/resources/background.jpg
 38895ae7e76777ab6a70f6fe2aea5000|index.html
-ebb89b8647e5586687fcb8a8ced1d686|jackcraft/modpack.yml
+ce377a314a50430eed986b95c0ed75d1|jackcraft/modpack.yml
 1db1857730e6e58158ed42dbd5273c0a|jackcraft/resources/icon.png
 7f6bb36d19007a30b9a9c97f22ccbabf|jackcraft/resources/logo.png
 6b5021d8efb22deefd50ea94ee144ed0|jackcraft/resources/icon.ico
@@ -66,7 +66,7 @@ b946fd371e0b5dfbad0eaef571ada1ab|modfixes/minecraft-1.1/net/minecraft/client/Min
 a6903cfc0b61c251f136c87e95d6d50b|modfixes/GuiAPI-0.13.1-1.1/font/default.png
 52713017dbbe0a5b22fb2064130f6500|modfixes/GuiAPI-0.13.1-1.1/gui/gui.png
 475434e2194954f64e8f4d0cc3df6507|modfixes/GuiAPI-0.13.1-1.1/acz.class
-b0f192c72b874cb7aa7f1afd197ef170|modlibrary.yml
+53e8b1e831b8ea51c3ff59b9ec500679|modlibrary.yml
 809b9235ab0d7b4c3911f3e127cf0f70|modpacks.yml
 550601ea15b7b03c903fe70870fbb9bd|mods/craftingtableiii/craftingtableiii-v1.8.zip
 c9e0ae7100af5ffd25e672fd1dbcb8a0|mods/adventureitems/adventureitems-v1.1.zip
@@ -399,8 +399,8 @@ c9c3ac21f478e091b4514f41e3802062|mods/enderchest/enderchest-v1.0.zip
 c4144d0f3a14b17efda723e9e858134d|mods/enderchest/enderchest-v1.0.1v2.zip
 a217e84dadff30dd42d223e6264063be|mods/enderchest/enderchest-v1.0.1.zip
 c7d0ba5840753c2eda8393fef810e674|mods/voxelworld/voxelworld-v8.1.0.zip
-9ed69909669c8543ee98126e33d5e1b5|mods/z-jackcraft-configs/z-jackcraft-configs-v3.0.5.zip
-9ed69909669c8543ee98126e33d5e1b5|mods/z-jackcraft-configs/z-jackcraft-configs-v3.0.4.zip
+9fd32b763871cad426e40ede5af3e8fa|mods/z-jackcraft-configs/z-jackcraft-configs-v3.0.5.zip
+bdc1240e856d245b028eaf22cc2dfec9|mods/z-jackcraft-configs/z-jackcraft-configs-v3.0.4.zip
 7b6cb9d2bfdf8329263109149827e99a|mods/z-technic-configs/z-technic-configs-v6.1.1.zip
 99d4d50806206274c548e753d96035ba|mods/z-technic-configs/z-technic-configs-v6.0.5.zip
 ab86b00832d779f0164336876aa8dc92|mods/z-technic-configs/z-technic-configs-v6.0.7.zip
