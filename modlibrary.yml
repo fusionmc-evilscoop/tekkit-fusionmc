@@ -426,7 +426,7 @@ mods:
         name: "Iron Chests"
         installtype: "zip"
         versions:
-            v3.4.2.28
+            v3.4.2.28:
             v3.3.1.21:
             v2.5:
     lectern:
@@ -650,7 +650,7 @@ mods:
         link: "http://www.minecraftforum.net/topic/482147-100b181b19pre5jan01-reis-minimap-v29-01/"
         optional: true
         versions:
-            v3.2._04:
+            v3.2_04:
             v3.0_04-1.2.5:
             v3.0_04:
             v3.0_03:
