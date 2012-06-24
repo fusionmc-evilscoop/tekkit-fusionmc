@@ -9,7 +9,7 @@ c8245a967bdbb9560bd3668327a738ba|hackslashmine/resources/logo.png
 6ac510b04af406f19c3ad8ea40c16090|hackslashmine/resources/favicon.png
 b78240ee304599b7f55981c7fb284792|hackslashmine/resources/background.jpg
 38895ae7e76777ab6a70f6fe2aea5000|index.html
-d1011a79048879da04d9f8966aefa13d|jackcraft/modpack.yml
+29011a27aebd086a2a3ec0df71c1f95d|jackcraft/modpack.yml
 1db1857730e6e58158ed42dbd5273c0a|jackcraft/resources/icon.png
 7f6bb36d19007a30b9a9c97f22ccbabf|jackcraft/resources/logo.png
 6b5021d8efb22deefd50ea94ee144ed0|jackcraft/resources/icon.ico
@@ -52,7 +52,7 @@ ae6d695605990bd2544b358f17b11c28|Libraries/trove4j/trove4j-3.0.1.jar
 5932fe928f9bbbbd7ce502d44ab57616|Md5Checker.exe
 aed26da17ebe4f5f632e8f602c6ee0a1|Md5Checker.ini
 6265503f262c1a415a523ebd259c6b58|minecraft.yml
-8ad6c59337f4f5704f22d15b4b55546a|mirrors.yml
+ee22baded8bdcfb2682a6b30a1d96dba|mirrors.yml
 cb071e8806c2b1711b54699236398be3|modfixes/minecraft-1.2.4/net/minecraft/client/Minecraft.class
 11dd7268ca9586d03fcd7e01fc2c4a88|modfixes/minecraft-1.2.4/net/minecraft/client/MinecraftApplet.class
 b43db65b7a7adb67075ba60d14ef6904|modfixes/How
@@ -67,7 +67,7 @@ b946fd371e0b5dfbad0eaef571ada1ab|modfixes/minecraft-1.1/net/minecraft/client/Min
 a6903cfc0b61c251f136c87e95d6d50b|modfixes/GuiAPI-0.13.1-1.1/font/default.png
 52713017dbbe0a5b22fb2064130f6500|modfixes/GuiAPI-0.13.1-1.1/gui/gui.png
 475434e2194954f64e8f4d0cc3df6507|modfixes/GuiAPI-0.13.1-1.1/acz.class
-d3840af5f85e487f66cf86cc3d62ac20|modlibrary.yml
+6f5b370fdc3a43b656952c4481350d5a|modlibrary.yml
 809b9235ab0d7b4c3911f3e127cf0f70|modpacks.yml
 550601ea15b7b03c903fe70870fbb9bd|mods/craftingtableiii/craftingtableiii-v1.8.zip
 c9e0ae7100af5ffd25e672fd1dbcb8a0|mods/adventureitems/adventureitems-v1.1.zip
@@ -135,6 +135,7 @@ ebc6eca2a25eb973e10142037ff846bc|mods/basemods/basemods-v5.0.5.zip
 35162bb19bbcaa0d3b5c11ab19bcb560|mods/basemods/basemods-tekkit-v3.0.1.zip
 7ef3498f9329fd527efb2fbf84be2cdd|mods/basemods/basemods-v1.2.0-S.zip
 16bf277580c55480f9a300b449963723|mods/basemods/basemods-hackslashmine-v0.5.3.zip
+b7ed852da4c2a99d8e588726f5c713ad|mods/basemods/basemods-jackcraft-v3.0.5.zip
 680360e7943e61fa09c3b88c2e340773|mods/basemods/basemods-hackslashmine-v0.4.zip
 eaafab5aa4d4e61c68724c2dd074e647|mods/basemods/basemods-yogbox-v1.1.2.zip
 407fe6e72f2a453a1b2c76ff3f6e350c|mods/basemods/basemods-technic-v6.0.0.zip
