@@ -7,8 +7,8 @@ c8245a967bdbb9560bd3668327a738ba|hackslashmine/resources/logo.png
 69285bc9cdadfebf9e7209f80cd6ac26|hackslashmine/resources/icon.icns
 6ac510b04af406f19c3ad8ea40c16090|hackslashmine/resources/favicon.png
 b78240ee304599b7f55981c7fb284792|hackslashmine/resources/background.jpg
-38895ae7e76777ab6a70f6fe2aea5000|index.html
-ce377a314a50430eed986b95c0ed75d1|jackcraft/modpack.yml
+370f8ce09056f6ae3cd8191c4e88de93|index.html
+64d891ccd302a4a3e047a1e6f278ce56|jackcraft/modpack.yml
 1db1857730e6e58158ed42dbd5273c0a|jackcraft/resources/icon.png
 7f6bb36d19007a30b9a9c97f22ccbabf|jackcraft/resources/logo.png
 6b5021d8efb22deefd50ea94ee144ed0|jackcraft/resources/icon.ico
@@ -51,7 +51,7 @@ ae6d695605990bd2544b358f17b11c28|Libraries/trove4j/trove4j-3.0.1.jar
 5932fe928f9bbbbd7ce502d44ab57616|Md5Checker.exe
 aed26da17ebe4f5f632e8f602c6ee0a1|Md5Checker.ini
 6265503f262c1a415a523ebd259c6b58|minecraft.yml
-ecbb70e97159c2c3b52c883fe676caba|mirrors.yml
+73dc05a74b344014d908002bfeb78d89|mirrors.yml
 cb071e8806c2b1711b54699236398be3|modfixes/minecraft-1.2.4/net/minecraft/client/Minecraft.class
 11dd7268ca9586d03fcd7e01fc2c4a88|modfixes/minecraft-1.2.4/net/minecraft/client/MinecraftApplet.class
 b43db65b7a7adb67075ba60d14ef6904|modfixes/How
@@ -534,7 +534,7 @@ ab01849a4c1c550804e718c2341c0bcc|spotlight/resources/icon.icns
 1fa7a59e85ad2d9332f6336019b23507|spotlight/resources/favicon.png
 4b2d956eb38849e9b4497caa5e62bf04|spotlight/resources/background.jpg
 d6baeadad8c792724aeda91d619a4774|TechnicLauncher.exe
-7faf0b86681162e8aa205be3e55d21b2|technic-launcher.jar
+afd516d599b9b8406f5f3d7893530d38|technic-launcher.jar
 0a19b2005dad42430f31fd6d22849d98|technicssp/modpack.yml
 1db1857730e6e58158ed42dbd5273c0a|technicssp/resources/icon.png
 8657f44b42d2947bb9c7511176aa8aae|technicssp/resources/logo.png
