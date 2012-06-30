@@ -8,7 +8,7 @@ c8245a967bdbb9560bd3668327a738ba|hackslashmine/resources/logo.png
 6ac510b04af406f19c3ad8ea40c16090|hackslashmine/resources/favicon.png
 b78240ee304599b7f55981c7fb284792|hackslashmine/resources/background.jpg
 370f8ce09056f6ae3cd8191c4e88de93|index.html
-64d891ccd302a4a3e047a1e6f278ce56|jackcraft/modpack.yml
+b49666e1088f86834a01fd87e138b78b|jackcraft/modpack.yml
 1db1857730e6e58158ed42dbd5273c0a|jackcraft/resources/icon.png
 7f6bb36d19007a30b9a9c97f22ccbabf|jackcraft/resources/logo.png
 6b5021d8efb22deefd50ea94ee144ed0|jackcraft/resources/icon.ico
@@ -48,6 +48,7 @@ d05cd8b0a7ee4466994d64779eb28190|Libraries/guava/guava-10.0.1.jar
 ae6d695605990bd2544b358f17b11c28|Libraries/trove4j/trove4j-3.0.1.jar
 58b3d877862e49bd5828a73b2c7d1313|Libraries/fastutil/fastutil-6.4.1-int2obj.jar
 3080201d7e20a69e33ebd059fcc89faa|libraries.yml
+b105a1651645c9d1f28b8d8277ab1f85|logs.yml
 5932fe928f9bbbbd7ce502d44ab57616|Md5Checker.exe
 aed26da17ebe4f5f632e8f602c6ee0a1|Md5Checker.ini
 6265503f262c1a415a523ebd259c6b58|minecraft.yml
