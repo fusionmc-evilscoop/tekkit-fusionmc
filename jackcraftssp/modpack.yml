@@ -15,7 +15,7 @@ builds:
         libraries:
         minecraft: 1.2.5
         mods:
-            basemods: jackcraft-v4.0
+            basemods: jackcraft-v4.0.0
             balkonsweaponmod: v8.6
             buildcraft: v2.2.14
             buildcraft-objects: v97
@@ -38,7 +38,7 @@ builds:
             redpower: v2.0.5b2
             reisminimap: v3.2_04
             wrcbe: v1.2.1
-            z-jackcraft-configs: v4.0
+            z-jackcraft-configs: v4.0.0
     3.0.5:
         libraries:
         minecraft: 1.2.5
