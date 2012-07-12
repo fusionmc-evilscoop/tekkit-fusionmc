@@ -3,7 +3,7 @@ a221c50c62ffb96ac264bbd038199415|donatemodders.gif
 729f842689d847fdc33965f1358e6706|donate.png
 f5153110229fbbda8bee81eaf20045c7|forums_small.png
 b630d4097505b38e5717949e51b662a3|index.html
-4349da83adb53a575b8beb36b27208a7|jackcraft/modpack.yml
+a9c72f1b5c69ab54e0b44bf927f8f1b4|jackcraft/modpack.yml
 1db1857730e6e58158ed42dbd5273c0a|jackcraft/resources/icon.png
 7f6bb36d19007a30b9a9c97f22ccbabf|jackcraft/resources/logo.png
 6b5021d8efb22deefd50ea94ee144ed0|jackcraft/resources/icon.ico
@@ -151,7 +151,6 @@ d416becf3b3f3a65b825e64a89a2aab0|mods/basemods/basemods-technic-v5.1.0.zip
 15985a170961f95203c3b661343bae4c|mods/basemods/basemods-voxelmodpack-v8.2.0.zip
 bdc4bdd60d841c6f378cd3dee68a44d8|mods/basemods/basemods-technic-no-optifine.zip
 611a0d9ce47ef7218068ca48ce38599a|mods/basemods/basemods-hackslashmine-v0.6.0.zip
-29ff5a8c62ac5b4c489d38378867f3ea|mods/basemods/basemods-jackcraft-v4.0.zip
 35e2c2b1abffd1e1a6b8d42e4c2305a3|mods/basemods/basemods-tekkit-v3.0.0-smooth.zip
 187a096e83181c8fe0abbf68651c2202|mods/basemods/basemods-technic-v6.1.0.zip
 5185fd418d1e2a0a2c8811c101bfcc18|mods/basemods/basemods-yogbox-v1.2.1.zip
@@ -162,6 +161,7 @@ e31cb01bfd347276aeefc6ac9295534a|mods/basemods/basemods-technic-v6.0.5.zip
 5eb628a2e7fedaf0620232941f136ba7|mods/basemods/basemods-technic-v7.0.0.zip
 9c3986c8a5a4331975d7505635186987|mods/basemods/basemods-yogbox-v1.2.5.zip
 4396593474a8b29ae77bf21899aa72a3|mods/basemods/basemods-technic-v6.1.1.zip
+29ff5a8c62ac5b4c489d38378867f3ea|mods/basemods/basemods-jackcraft-v4.0.0.zip
 e4f13dc7eeab8d032ef19d113ab6224d|mods/basemods/basemods-voxelmodpack-v8.1.0.zip
 3669746151f1966dbd751b1d83890e28|mods/basemods/basemods-vanilla-v1.2.5.zip
 75a8e6e32f0de7755ce99f9132fada0e|mods/basemods/basemods-v1.3.0.zip
@@ -408,7 +408,7 @@ c9c3ac21f478e091b4514f41e3802062|mods/enderchest/enderchest-v1.0.zip
 c4144d0f3a14b17efda723e9e858134d|mods/enderchest/enderchest-v1.0.1v2.zip
 a217e84dadff30dd42d223e6264063be|mods/enderchest/enderchest-v1.0.1.zip
 c7d0ba5840753c2eda8393fef810e674|mods/voxelworld/voxelworld-v8.1.0.zip
-a9d99bd972007d35031ccb10c939770e|mods/z-jackcraft-configs/z-jackcraft-configs-v4.0.zip
+a9d99bd972007d35031ccb10c939770e|mods/z-jackcraft-configs/z-jackcraft-configs-v4.0.0.zip
 9fd32b763871cad426e40ede5af3e8fa|mods/z-jackcraft-configs/z-jackcraft-configs-v3.0.5.zip
 9f08fdd4244c0db06f5652c07bf2e913|mods/z-jackcraft-configs/z-jackcraft-configs-v3.0.4.zip
 7b6cb9d2bfdf8329263109149827e99a|mods/z-technic-configs/z-technic-configs-v6.1.1.zip
