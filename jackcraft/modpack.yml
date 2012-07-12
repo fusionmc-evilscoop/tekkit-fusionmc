@@ -11,6 +11,34 @@ lib-1: &lib-1
     snakeyaml: 1.9
     trove4j: 3.0.1
 builds:
+    4.0:
+        libraries:
+        minecraft: 1.2.5
+        mods:
+            basemods: jackcraft-v4.0
+            balkonsweaponmod: v8.6
+            buildcraft: v2.2.14
+            buildcraft-objects: v97
+            builcraft-additionalpipes: v2.1.3
+            computercraft: v1.33
+            enderstorage: v1.1.3
+            forestry: v1.4.8.4_bc2.2
+            ic2: v1.97
+            ic2-advancedmachines: v4.1
+            ic2-advancedsolars: v3.0.0
+            inventorytweaks: v1.41b
+            ironchests: v3.6.1.34
+            jammyfurnituremod: v3.6
+            matmos: v12
+            morepistons: v1.0
+            nei: v1.2.2r2
+            paintball: v4.2
+            powerconverters: v1.3.4
+            rc: v5.3.3
+            redpower: v2.0.5b2
+            reisminimap: v3.2_04
+            wrcbe: v1.2.1
+            z-jackcraft-configs: v4.0
     3.0.5:
         libraries:
         minecraft: 1.2.5

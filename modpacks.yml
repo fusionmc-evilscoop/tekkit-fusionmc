@@ -1,9 +1,4 @@
 modpacks:
-    technicssp: 'Technic SSP'
-    tekkit: 'Tekkit'
-    jackcraft: 'Jack Craft'
-    yogbox: 'Yogbox'
-    voxelmodpack: 'VoxelModPack'
-    hackslashmine: 'Hack Slash Mine'
+    jackcraft: 'JackCraft'
+    jackcraftssp: 'JackCraft SSP'
     vanilla: 'Vanilla'
-#    spotlight: 'Thaumcraft 2'
