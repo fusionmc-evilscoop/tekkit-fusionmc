@@ -438,7 +438,7 @@ mods:
         name: "Jammys Furnature Mod"
         installtype: "zip"
         versions:
-            v3.6
+            v3.6:
     lectern:
         name: "Lectern"
         installtype: "zip"
