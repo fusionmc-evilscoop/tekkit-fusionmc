@@ -3,7 +3,7 @@ a221c50c62ffb96ac264bbd038199415|donatemodders.gif
 729f842689d847fdc33965f1358e6706|donate.png
 f5153110229fbbda8bee81eaf20045c7|forums_small.png
 b630d4097505b38e5717949e51b662a3|index.html
-1682d8972e62cbdb5241a2573af40489|jackcraft/modpack.yml
+085044c8ced6cc769da478ba6d811686|jackcraft/modpack.yml
 1db1857730e6e58158ed42dbd5273c0a|jackcraft/resources/icon.png
 7f6bb36d19007a30b9a9c97f22ccbabf|jackcraft/resources/logo.png
 6b5021d8efb22deefd50ea94ee144ed0|jackcraft/resources/icon.ico
@@ -69,7 +69,7 @@ b946fd371e0b5dfbad0eaef571ada1ab|modfixes/minecraft-1.1/net/minecraft/client/Min
 a6903cfc0b61c251f136c87e95d6d50b|modfixes/GuiAPI-0.13.1-1.1/font/default.png
 52713017dbbe0a5b22fb2064130f6500|modfixes/GuiAPI-0.13.1-1.1/gui/gui.png
 475434e2194954f64e8f4d0cc3df6507|modfixes/GuiAPI-0.13.1-1.1/acz.class
-9419b7268fec78030fec1431f01921e0|modlibrary.yml
+4a46141a46cc4074e10d7b4f92f7260d|modlibrary.yml
 a15134883098780327e04ebad4966cbe|modpacks.yml
 550601ea15b7b03c903fe70870fbb9bd|mods/craftingtableiii/craftingtableiii-v1.8.zip
 c9e0ae7100af5ffd25e672fd1dbcb8a0|mods/adventureitems/adventureitems-v1.1.zip
@@ -132,6 +132,7 @@ e41ee9ca5b3c712b067bfd13104c2cc8|mods/basemods/basemods-tekkit-v3.0.0.zip
 d0757110ca029b7dd052ede4b531c7d8|mods/basemods/basemods-yogbox-v1.1.0.zip
 3532deb5c709455f11eda144c3c7576a|mods/basemods/basemods-yogbox-v1.1.6.zip
 b4341bb67394d88f53ff196fe3a70cc9|mods/basemods/basemods-technic-v6.0.7.zip
+29ff5a8c62ac5b4c489d38378867f3ea|mods/basemods/basemods-jackcraft-v4.0.1.zip
 ebc6eca2a25eb973e10142037ff846bc|mods/basemods/basemods-v5.0.5.zip
 86ec170041ce38f71c14edccae442c96|mods/basemods/basemods-spotlight-forge-v1.0.0.zip
 3cdfe537db7a87e49e08a76338065e64|mods/basemods/basemods-technic-v6.0.2.zip
@@ -411,6 +412,7 @@ c7d0ba5840753c2eda8393fef810e674|mods/voxelworld/voxelworld-v8.1.0.zip
 a9d99bd972007d35031ccb10c939770e|mods/z-jackcraft-configs/z-jackcraft-configs-v4.0.0.zip
 9fd32b763871cad426e40ede5af3e8fa|mods/z-jackcraft-configs/z-jackcraft-configs-v3.0.5.zip
 9f08fdd4244c0db06f5652c07bf2e913|mods/z-jackcraft-configs/z-jackcraft-configs-v3.0.4.zip
+018a2741c1573f08debc2b8964c03448|mods/z-jackcraft-configs/z-jackcraft-configs-v4.0.1.zip
 7b6cb9d2bfdf8329263109149827e99a|mods/z-technic-configs/z-technic-configs-v6.1.1.zip
 99d4d50806206274c548e753d96035ba|mods/z-technic-configs/z-technic-configs-v6.0.5.zip
 ab86b00832d779f0164336876aa8dc92|mods/z-technic-configs/z-technic-configs-v6.0.7.zip
