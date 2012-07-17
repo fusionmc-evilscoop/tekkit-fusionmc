@@ -53,7 +53,7 @@ ae6d695605990bd2544b358f17b11c28|Libraries/trove4j/trove4j-3.0.1.jar
 b105a1651645c9d1f28b8d8277ab1f85|logs.yml
 5932fe928f9bbbbd7ce502d44ab57616|Md5Checker.exe
 aed26da17ebe4f5f632e8f602c6ee0a1|Md5Checker.ini
-6265503f262c1a415a523ebd259c6b58|minecraft.yml
+0043e5fe2c4b09cefb3eb9632bee71e8|minecraft.yml
 73dc05a74b344014d908002bfeb78d89|mirrors.yml
 cb071e8806c2b1711b54699236398be3|modfixes/minecraft-1.2.4/net/minecraft/client/Minecraft.class
 11dd7268ca9586d03fcd7e01fc2c4a88|modfixes/minecraft-1.2.4/net/minecraft/client/MinecraftApplet.class
@@ -69,7 +69,7 @@ b946fd371e0b5dfbad0eaef571ada1ab|modfixes/minecraft-1.1/net/minecraft/client/Min
 a6903cfc0b61c251f136c87e95d6d50b|modfixes/GuiAPI-0.13.1-1.1/font/default.png
 52713017dbbe0a5b22fb2064130f6500|modfixes/GuiAPI-0.13.1-1.1/gui/gui.png
 475434e2194954f64e8f4d0cc3df6507|modfixes/GuiAPI-0.13.1-1.1/acz.class
-4a46141a46cc4074e10d7b4f92f7260d|modlibrary.yml
+e6cb47489efbbe260a3732b0a92adf7b|modlibrary.yml
 a15134883098780327e04ebad4966cbe|modpacks.yml
 550601ea15b7b03c903fe70870fbb9bd|mods/craftingtableiii/craftingtableiii-v1.8.zip
 c9e0ae7100af5ffd25e672fd1dbcb8a0|mods/adventureitems/adventureitems-v1.1.zip
@@ -131,6 +131,7 @@ e41ee9ca5b3c712b067bfd13104c2cc8|mods/basemods/basemods-tekkit-v3.0.0.zip
 089a3457c5c153f958a216ac357efcd8|mods/basemods/basemods-test2.zip
 d0757110ca029b7dd052ede4b531c7d8|mods/basemods/basemods-yogbox-v1.1.0.zip
 3532deb5c709455f11eda144c3c7576a|mods/basemods/basemods-yogbox-v1.1.6.zip
+3669746151f1966dbd751b1d83890e28|mods/basemods/basemods-vanilla-v12w25a.zip
 b4341bb67394d88f53ff196fe3a70cc9|mods/basemods/basemods-technic-v6.0.7.zip
 29ff5a8c62ac5b4c489d38378867f3ea|mods/basemods/basemods-jackcraft-v4.0.1.zip
 ebc6eca2a25eb973e10142037ff846bc|mods/basemods/basemods-v5.0.5.zip
@@ -508,6 +509,7 @@ c72f0962d992fa5e787dadb806453533|mods.yml
 20233b8b7f528dd8586c53b8ba7f43bb|Patches/Minecraft/minecraft_1.2.5-1.2.3.patch
 721e945e93100b1293eb8854265c66fb|Patches/Minecraft/minecraft_b1.7.2-b1.8.patch
 80776d8c789151f5c11ae8d39eb87c76|Patches/Minecraft/minecraft_1.0.0-b1.7.2.patch
+5a40adee07a2ab2e7356f22bd19f3e12|Patches/Minecraft/Minecraft_1.2.5-12w25a.patch
 a9d6c1c68813beac11e00eafc1aee35e|Patches/Minecraft/minecraft_b1.7.3-b1.8.1.patch
 4a68d50cf38e47460dee8321d361ab4c|Patches/Minecraft/Create
 83a113892ff3abfb49475b99750612c5|Patches/Minecraft/Create
@@ -551,7 +553,7 @@ ab01849a4c1c550804e718c2341c0bcc|spotlight/resources/icon.icns
 4b2d956eb38849e9b4497caa5e62bf04|spotlight/resources/background.jpg
 d6baeadad8c792724aeda91d619a4774|TechnicLauncher.exe
 a838bb4720ffb9d03939c7b237e4f270|technic-launcher.jar
-29c49d0b3fd92120708bd1156d454435|vanilla/modpack.yml
+afd342af31c9d463add0990c8332c0a1|vanilla/modpack.yml
 1db1857730e6e58158ed42dbd5273c0a|vanilla/resources/icon.png
 2030aa9a0ea63a0e38f1c565c1f5c18f|vanilla/resources/logo.png
 6b5021d8efb22deefd50ea94ee144ed0|vanilla/resources/icon.ico
