@@ -55,6 +55,7 @@ mods:
             jackcraft-v3.0.5:
             jackcraft-v4.0.0:
             jackcraft-v4.0.1:
+            jackcraft-v4.0.3:
     adventureitems:
         name: "Adventure Items"
         installtype: "zip"
@@ -837,6 +838,7 @@ mods:
         name: "Wireless Redstone Chicken Bones Edition"
         installtype: "zip"
         versions:
+            v1.2.2.3:
             v1.2.2.1:
             v1.2.1:
             v1.2.0:
@@ -926,6 +928,7 @@ mods:
         description: "A collection of configuration files for jackcraft pack"
         installtype: "zip"
         versions:
+            v4.0.3:
             v4.0.1:
             v4.0.0:
             v3.0.5:
