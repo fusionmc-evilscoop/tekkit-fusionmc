@@ -3,6 +3,31 @@ current:
 recommended: '1.2.5'
 latest: '12w25a'
 builds:
+    '12w30c':
+        libraries:
+        minecraft: 12w30c
+        mods:
+            basemods: vanilla-v12w30c
+    '12w30b':
+        libraries:
+        minecraft: 12w30b
+        mods:
+            basemods: vanilla-v12w30b
+    '12w30a':
+        libraries:
+        minecraft: 12w30a
+        mods:
+            basemods: vanilla-v12w30a
+    '12w27a':
+        libraries:
+        minecraft: 12w27a
+        mods:
+            basemods: vanilla-v12w27a
+    '12w26a':
+        libraries:
+        minecraft: 12w26a
+        mods:
+            basemods: vanilla-v12w26a
     '12w25a':
         libraries:
         minecraft: 12w25a
