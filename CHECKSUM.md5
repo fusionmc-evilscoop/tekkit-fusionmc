@@ -3,7 +3,7 @@ a221c50c62ffb96ac264bbd038199415|donatemodders.gif
 729f842689d847fdc33965f1358e6706|donate.png
 f5153110229fbbda8bee81eaf20045c7|forums_small.png
 b630d4097505b38e5717949e51b662a3|index.html
-085044c8ced6cc769da478ba6d811686|jackcraft/modpack.yml
+caeb63f323e5dd474791ab7b460a311b|jackcraft/modpack.yml
 1db1857730e6e58158ed42dbd5273c0a|jackcraft/resources/icon.png
 96a9f16111934e46c655bd8b19178875|jackcraft/resources/logo.png
 6b5021d8efb22deefd50ea94ee144ed0|jackcraft/resources/icon.ico
@@ -69,7 +69,7 @@ b946fd371e0b5dfbad0eaef571ada1ab|modfixes/minecraft-1.1/net/minecraft/client/Min
 a6903cfc0b61c251f136c87e95d6d50b|modfixes/GuiAPI-0.13.1-1.1/font/default.png
 52713017dbbe0a5b22fb2064130f6500|modfixes/GuiAPI-0.13.1-1.1/gui/gui.png
 475434e2194954f64e8f4d0cc3df6507|modfixes/GuiAPI-0.13.1-1.1/acz.class
-e6cb47489efbbe260a3732b0a92adf7b|modlibrary.yml
+eb179de18c100a9f534b95b7f9ae03d1|modlibrary.yml
 a15134883098780327e04ebad4966cbe|modpacks.yml
 550601ea15b7b03c903fe70870fbb9bd|mods/craftingtableiii/craftingtableiii-v1.8.zip
 c9e0ae7100af5ffd25e672fd1dbcb8a0|mods/adventureitems/adventureitems-v1.1.zip
@@ -85,6 +85,7 @@ b2fd528f4e8564e6058811f16361bf37|mods/z-tekkit-configs/z-tekkit-configs-v3.0.3.z
 2bfcbe2bfcb722243369fd431d5873e6|mods/z-tekkit-configs/z-tekkit-configs-v3.0.0a.zip
 c3dce9bdf63aafc9a33dba54fa8e192b|mods/z-tekkit-configs/z-tekkit-configs-v2.1.zip
 3aa25cff3154d6006aa358a07876be1e|mods/z-tekkit-configs/z-tekkit-configs-v3.0.0.zip
+d4cbf861cb3e58408742ba00ac85f027|mods/wrcbe/wrcbe-v1.2.2.3.zip
 1586b6a8723be6a73d7f2288396b00a1|mods/wrcbe/wrcbe-v1.2.0.zip
 cd7c58043de6ae21d42a09721fa50c04|mods/wrcbe/wrcbe-v1.2.2.1.zip
 69c74aea40d883046d943b786d158369|mods/wrcbe/wrcbe-v1.2.1.zip
@@ -161,6 +162,7 @@ bdc4bdd60d841c6f378cd3dee68a44d8|mods/basemods/basemods-technic-no-optifine.zip
 73035638384240b293e8bfdc1c8f2006|mods/basemods/basemods-technic-v7.1.0.zip
 e31cb01bfd347276aeefc6ac9295534a|mods/basemods/basemods-technic-v6.0.5.zip
 5eb628a2e7fedaf0620232941f136ba7|mods/basemods/basemods-technic-v7.0.0.zip
+f03d1184293449606db5dd4484700fa3|mods/basemods/basemods-jackcraft-v4.0.3.zip
 9c3986c8a5a4331975d7505635186987|mods/basemods/basemods-yogbox-v1.2.5.zip
 4396593474a8b29ae77bf21899aa72a3|mods/basemods/basemods-technic-v6.1.1.zip
 29ff5a8c62ac5b4c489d38378867f3ea|mods/basemods/basemods-jackcraft-v4.0.0.zip
@@ -414,6 +416,7 @@ a9d99bd972007d35031ccb10c939770e|mods/z-jackcraft-configs/z-jackcraft-configs-v4
 9fd32b763871cad426e40ede5af3e8fa|mods/z-jackcraft-configs/z-jackcraft-configs-v3.0.5.zip
 9f08fdd4244c0db06f5652c07bf2e913|mods/z-jackcraft-configs/z-jackcraft-configs-v3.0.4.zip
 018a2741c1573f08debc2b8964c03448|mods/z-jackcraft-configs/z-jackcraft-configs-v4.0.1.zip
+84cd63e025fee003dc54eb1dbc7253a8|mods/z-jackcraft-configs/z-jackcraft-configs-v4.0.3.zip
 7b6cb9d2bfdf8329263109149827e99a|mods/z-technic-configs/z-technic-configs-v6.1.1.zip
 99d4d50806206274c548e753d96035ba|mods/z-technic-configs/z-technic-configs-v6.0.5.zip
 ab86b00832d779f0164336876aa8dc92|mods/z-technic-configs/z-technic-configs-v6.0.7.zip
@@ -509,7 +512,6 @@ c72f0962d992fa5e787dadb806453533|mods.yml
 20233b8b7f528dd8586c53b8ba7f43bb|Patches/Minecraft/minecraft_1.2.5-1.2.3.patch
 721e945e93100b1293eb8854265c66fb|Patches/Minecraft/minecraft_b1.7.2-b1.8.patch
 80776d8c789151f5c11ae8d39eb87c76|Patches/Minecraft/minecraft_1.0.0-b1.7.2.patch
-5a40adee07a2ab2e7356f22bd19f3e12|Patches/Minecraft/minecraft_1.2.5-12w25a.patch
 a9d6c1c68813beac11e00eafc1aee35e|Patches/Minecraft/minecraft_b1.7.3-b1.8.1.patch
 4a68d50cf38e47460dee8321d361ab4c|Patches/Minecraft/Create
 83a113892ff3abfb49475b99750612c5|Patches/Minecraft/Create
@@ -518,6 +520,7 @@ b687971bd4a77ccb04330f7e86211841|Patches/Minecraft/Create
 e2309080b2ead234ad054e6c3ff3951f|Patches/Minecraft/minecraft_b1.8.1-b1.7.3.patch
 401f7157c7e8a67a45bfe22ff4b480fd|Patches/Minecraft/minecraft_b1.8-b1.8.1.patch
 86edaf1445b8c8831a4ab8f135175ae3|Patches/Minecraft/minecraft_b1.8.1-1.1.patch
+5a40adee07a2ab2e7356f22bd19f3e12|Patches/Minecraft/minecraft_1.2.5-12w25a.patch
 fa8899420a629d1371c9294a715ddc83|Patches/Minecraft/minecraft_b1.8-b1.7.3.patch
 c13ac9b1f3f054760512212177dd7bd8|Patches/Minecraft/minecraft_1.2-1.1.patch
 da250bb4eff51ec6a1c10de3a79ad1e7|Patches/Minecraft/minecraft_b1.7.3-b1.8.patch
