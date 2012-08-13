@@ -53,7 +53,7 @@ ae6d695605990bd2544b358f17b11c28|Libraries/trove4j/trove4j-3.0.1.jar
 b105a1651645c9d1f28b8d8277ab1f85|logs.yml
 5932fe928f9bbbbd7ce502d44ab57616|Md5Checker.exe
 aed26da17ebe4f5f632e8f602c6ee0a1|Md5Checker.ini
-eba1bf4a4afba65800872d80481603a0|minecraft.yml
+17c8c81a262b999624f94fc92de0884c|minecraft.yml
 73dc05a74b344014d908002bfeb78d89|mirrors.yml
 cb071e8806c2b1711b54699236398be3|modfixes/minecraft-1.2.4/net/minecraft/client/Minecraft.class
 11dd7268ca9586d03fcd7e01fc2c4a88|modfixes/minecraft-1.2.4/net/minecraft/client/MinecraftApplet.class
@@ -69,7 +69,7 @@ b946fd371e0b5dfbad0eaef571ada1ab|modfixes/minecraft-1.1/net/minecraft/client/Min
 a6903cfc0b61c251f136c87e95d6d50b|modfixes/GuiAPI-0.13.1-1.1/font/default.png
 52713017dbbe0a5b22fb2064130f6500|modfixes/GuiAPI-0.13.1-1.1/gui/gui.png
 475434e2194954f64e8f4d0cc3df6507|modfixes/GuiAPI-0.13.1-1.1/acz.class
-e92100a239140baae3f40120fda7ba2b|modlibrary.yml
+95485def9c23419c3b52396cb8f74870|modlibrary.yml
 a15134883098780327e04ebad4966cbe|modpacks.yml
 550601ea15b7b03c903fe70870fbb9bd|mods/craftingtableiii/craftingtableiii-v1.8.zip
 c9e0ae7100af5ffd25e672fd1dbcb8a0|mods/adventureitems/adventureitems-v1.1.zip
@@ -157,6 +157,7 @@ d416becf3b3f3a65b825e64a89a2aab0|mods/basemods/basemods-technic-v5.1.0.zip
 15985a170961f95203c3b661343bae4c|mods/basemods/basemods-voxelmodpack-v8.2.0.zip
 bdc4bdd60d841c6f378cd3dee68a44d8|mods/basemods/basemods-technic-no-optifine.zip
 611a0d9ce47ef7218068ca48ce38599a|mods/basemods/basemods-hackslashmine-v0.6.0.zip
+3669746151f1966dbd751b1d83890e28|mods/basemods/basemods-vanilla-v1.3.1.zip
 35e2c2b1abffd1e1a6b8d42e4c2305a3|mods/basemods/basemods-tekkit-v3.0.0-smooth.zip
 187a096e83181c8fe0abbf68651c2202|mods/basemods/basemods-technic-v6.1.0.zip
 5185fd418d1e2a0a2c8811c101bfcc18|mods/basemods/basemods-yogbox-v1.2.1.zip
@@ -166,6 +167,7 @@ bdc4bdd60d841c6f378cd3dee68a44d8|mods/basemods/basemods-technic-no-optifine.zip
 73035638384240b293e8bfdc1c8f2006|mods/basemods/basemods-technic-v7.1.0.zip
 e31cb01bfd347276aeefc6ac9295534a|mods/basemods/basemods-technic-v6.0.5.zip
 5eb628a2e7fedaf0620232941f136ba7|mods/basemods/basemods-technic-v7.0.0.zip
+3669746151f1966dbd751b1d83890e28|mods/basemods/basemods-vanilla-v1.3.1(with-map).zip
 f03d1184293449606db5dd4484700fa3|mods/basemods/basemods-jackcraft-v4.0.3.zip
 9c3986c8a5a4331975d7505635186987|mods/basemods/basemods-yogbox-v1.2.5.zip
 4396593474a8b29ae77bf21899aa72a3|mods/basemods/basemods-technic-v6.1.1.zip
@@ -535,6 +537,7 @@ da250bb4eff51ec6a1c10de3a79ad1e7|Patches/Minecraft/minecraft_b1.7.3-b1.8.patch
 fae92ad366836fda4adafe1c4d9c774a|Patches/Minecraft/minecraft_b1.7.3-1.0.0.patch
 13f108f5b47b88b0250836014ce5bafc|Patches/Minecraft/Minecraft_1.2.5-12w26a.patch
 49c5e37334f119e698387a44ea4ca879|Patches/Minecraft/minecraft_1.2.3-1.1.patch
+7fc5153c4944f7c3035eb8f1e3610435|Patches/Minecraft/minecraft_1.3.1-1.2.5.patch
 a7afcde942717b2474a9a441aedc8701|Patches/Minecraft/minecraft_b1.8.1-b1.8.patch
 bdc8f1d89b276e2b4c0f9dedcdfca984|Patches/Minecraft/Minecraft_1.2.5-1.2.3hsm.patch
 6a8c945367d61bc78c046a3fdebcd471|Patches/Minecraft/minecraft_b1.8-1.0.0.patch
@@ -566,7 +569,7 @@ ab01849a4c1c550804e718c2341c0bcc|spotlight/resources/icon.icns
 4b2d956eb38849e9b4497caa5e62bf04|spotlight/resources/background.jpg
 d6baeadad8c792724aeda91d619a4774|TechnicLauncher.exe
 a838bb4720ffb9d03939c7b237e4f270|technic-launcher.jar
-2cc19aebb3d0703fa43438cf686cb435|vanilla/modpack.yml
+1fc898d7f256c2191fcf8adcead35d67|vanilla/modpack.yml
 1db1857730e6e58158ed42dbd5273c0a|vanilla/resources/icon.png
 2030aa9a0ea63a0e38f1c565c1f5c18f|vanilla/resources/logo.png
 6b5021d8efb22deefd50ea94ee144ed0|vanilla/resources/icon.ico
