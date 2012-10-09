@@ -6,63 +6,12 @@ mods:
         modtype: "content"
         link: ""
         versions:
-            hackslashmine-v0.6.0:
-            hackslashmine-v0.5.3:
-            hackslashmine-v0.5.2:
-            hackslashmine-v0.4:
-            spotlight-forge-v1.0.0:
-            vanilla-v12w30c:
-            vanilla-v12w30b:
-            vanilla-v12w30a:
-            vanilla-v12w27a:
-            vanilla-v12w26a:
-            vanilla-v12w25a:
-            vanilla-v1.2.5:
-            vanilla-v1.2.3:
-            vanilla-v1.3.1:
-            vanilla-v1.3.1(with-map):
-            yogbox-v1.2.5:
-            yogbox-v1.2.1:
-            yogbox-v1.2.0:
-            yogbox-v1.1.6:
-            yogbox-v1.1.5:
-            yogbox-v1.1.2:
-            yogbox-v1.1.1:
-            yogbox-v1.1.0:
-            vanilla-v1.1:
-            technic-no-optifine:
-            technic-v7.1.0:
-            technic-v7.0.1:
-            technic-v7.0.0:
-            technic-v6.1.1:
-            technic-v6.1.0:
-            technic-v6.0.7:
-            technic-v6.0.6:
-            technic-v6.0.5:
-            technic-v6.0.3:
-            technic-v6.0.2:
-            technic-v6.0.1:
-            technic-v6.0.0:
-            tekkit-v3.0.3:
-            tekkit-v3.0.2:
-            tekkit-v3.0.1:
-            tekkit-v3.0.0-smooth:
-            tekkit-v3.0.0:
-            tekkit-v2.0:
-            v1.3.0:
-            v1.2.1y:
-            v1.2.0-S:
-            v1.2.0:
-            v5.0.5:
-            tekkit-v2.0.0:
-            voxelmodpack-v8.1.0:
-            voxelmodpack-v8.2.0:
-            voxelmodpack-v8.3.0:
             jackcraft-v3.0.4:
             jackcraft-v3.0.5:
             jackcraft-v4.0.0:
             jackcraft-v4.0.1:
             jackcraft-v4.0.3:
+            jackcraft-v1.3.2:
     adventureitems:
         name: "Adventure Items"
         installtype: "zip"
