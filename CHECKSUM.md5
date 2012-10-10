@@ -12,7 +12,7 @@ b105a1651645c9d1f28b8d8277ab1f85|logs.yml
 ab01849a4c1c550804e718c2341c0bcc|jackcraft/resources/icon.icns
 1fa7a59e85ad2d9332f6336019b23507|jackcraft/resources/favicon.png
 fbff540d5fd0b4187d56eb88ca0b622d|jackcraft/modpack.yml
-827a09cfadcee18b27b99d6d53da2ac5|modlibrary.yml~
+3e44b78103a36fc1efc789fdc6810396|modlibrary.yml~
 d41d8cd98f00b204e9800998ecf8427e|CHECKSUM.md5
 4164bd4c1fb0048aebdef670e9c5edf7|modfixes/minecraft-1.2.5/net/minecraft/client/Minecraft.class
 11dd7268ca9586d03fcd7e01fc2c4a88|modfixes/minecraft-1.2.5/net/minecraft/client/MinecraftApplet.class
@@ -490,7 +490,7 @@ ab01849a4c1c550804e718c2341c0bcc|vanilla/resources/icon.icns
 1636288a1d11234a292d8d8fc947f0c2|vanilla/modpack.yml
 62d96471836e5489ca20f955587ce31e|minecraft.yml
 a838bb4720ffb9d03939c7b237e4f270|technic-launcher.jar
-3e44b78103a36fc1efc789fdc6810396|modlibrary.yml
+d9a5fa602d51669c77ab3e1f21a13dc0|modlibrary.yml
 f5153110229fbbda8bee81eaf20045c7|forums_small.png
 1db1857730e6e58158ed42dbd5273c0a|spotlight/resources/icon.png
 4b2d956eb38849e9b4497caa5e62bf04|spotlight/resources/background.jpg
