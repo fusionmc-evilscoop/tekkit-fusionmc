@@ -2,7 +2,6 @@ d6baeadad8c792724aeda91d619a4774|TechnicLauncher.exe
 a221c50c62ffb96ac264bbd038199415|donatemodders.gif
 ddd691f34fad25ed0874ce915a92371f|RunLauncherOrgiGC.bat
 b105a1651645c9d1f28b8d8277ab1f85|logs.yml
-a15134883098780327e04ebad4966cbe|modpacks.yml~
 5932fe928f9bbbbd7ce502d44ab57616|Md5Checker.exe
 3080201d7e20a69e33ebd059fcc89faa|libraries.yml
 73dc05a74b344014d908002bfeb78d89|mirrors.yml
@@ -12,9 +11,8 @@ a15134883098780327e04ebad4966cbe|modpacks.yml~
 6b5021d8efb22deefd50ea94ee144ed0|jackcraft/resources/icon.ico
 ab01849a4c1c550804e718c2341c0bcc|jackcraft/resources/icon.icns
 1fa7a59e85ad2d9332f6336019b23507|jackcraft/resources/favicon.png
-03f79f3fbc50d46cb34b976224e5ce14|jackcraft/modpack.yml~
 fbff540d5fd0b4187d56eb88ca0b622d|jackcraft/modpack.yml
-95485def9c23419c3b52396cb8f74870|modlibrary.yml~
+827a09cfadcee18b27b99d6d53da2ac5|modlibrary.yml~
 d41d8cd98f00b204e9800998ecf8427e|CHECKSUM.md5
 4164bd4c1fb0048aebdef670e9c5edf7|modfixes/minecraft-1.2.5/net/minecraft/client/Minecraft.class
 11dd7268ca9586d03fcd7e01fc2c4a88|modfixes/minecraft-1.2.5/net/minecraft/client/MinecraftApplet.class
@@ -32,7 +30,6 @@ b946fd371e0b5dfbad0eaef571ada1ab|modfixes/minecraft-1.1/net/minecraft/client/Min
 3e0b34e6eed6d1138453b9f980588538|modfixes/minecraft-1.2.3/net/minecraft/client/MinecraftApplet.class
 be2210185febd4b82e73f3edb5b2469a|launcher.html
 72b9e4f3cc10fdf835d7ad3d9958f8c8|splash.gif
-31c85fcc5d8a1465f814fa255eea9774|minecraft.yml~
 3b9765093e63653eab7dfffcd1cd70e8|mods/sensibleenchanting/sensibleenchanting-v4.9.zip
 34d815f293464549dc67cc1dad629d92|mods/mfr/mfr-v1.4.0p2.zip
 4d4605494c474fc36ddfbfd1fd3eee44|mods/mfr/mfr-v1.4.0p.zip
@@ -493,7 +490,7 @@ ab01849a4c1c550804e718c2341c0bcc|vanilla/resources/icon.icns
 1636288a1d11234a292d8d8fc947f0c2|vanilla/modpack.yml
 62d96471836e5489ca20f955587ce31e|minecraft.yml
 a838bb4720ffb9d03939c7b237e4f270|technic-launcher.jar
-827a09cfadcee18b27b99d6d53da2ac5|modlibrary.yml
+3e44b78103a36fc1efc789fdc6810396|modlibrary.yml
 f5153110229fbbda8bee81eaf20045c7|forums_small.png
 1db1857730e6e58158ed42dbd5273c0a|spotlight/resources/icon.png
 4b2d956eb38849e9b4497caa5e62bf04|spotlight/resources/background.jpg
