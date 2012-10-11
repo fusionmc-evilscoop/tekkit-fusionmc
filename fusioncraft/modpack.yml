@@ -15,24 +15,50 @@ builds:
         libraries:
         minecraft: 1.2.5
         mods:
-            basemods: fusioncraft-v1.0.0
-            balkonsweaponmod: v8.6
+            basemods: fusioncraft-v1.3.6
+            backpack: v2.3.5
+            balkonsweaponmod: v8.9
+            betterfarming: v2.4.0
             buildcraft: v2.2.14
             buildcraft-objects: v97
             buildcraft-additionalpipes: v2.1.3
-            enderstorage: v1.1.3
-            forestry: v1.4.8.4_bc2.2
+            buildcraft-crossover: v1.28
+            chargingbench: v1.95b
+            chickenchunks: v1.0.1
+            codechickencore: v0.5.5
+            craftguide: v1.5.0
+            customstuff: v2.3.10
+            enderstorage: v1.1.4
+            euryscore: v1.2
+            euryselevator: v1.0
+            forestry: v1.4.8.6_bc2.2
+            forestrycrops: v1.1
+            forestryniko: v1.0
             forestryextrabees: v1.2.1
-            ic2: v1.97
-            ic2-advancedmachines: v4.1
+            forestryplugins: v1.2dR2
+            ic2: v1.103
+            ic2-advancedmachines: v1.5
+            ic2-compactsolars: v2.3.2.10
+            ic2-nuclearcontrol: v1.1.11
             ic2-advancedsolars: v3.0.0
+            ic2-seedmgr: v2.4
+            ic2-transformers: v1.3
+            idncrops: v1
+            immibiscore: v49.1.1
             inventorytweaks: v1.41b
             ironchests: v3.6.1.34
             matmos: v12
+            mffs: v3
+            mfr: v1.5.2
             morepistons: v1.0
-            nei: v1.2.2r2
+            nei: v1.3
+            netherores: v1.2.5
             powerconverters: v1.3.4
+            rc: v5.4.7b
             redpower: v2.0.5b2
-            reisminimap: v3.2_04
+            reisminimap: v3.2_05
+            secretroom: v1
+            thermal: v1.0.4.3bc2
+            tubestuff: v49.1.0
             z-fusioncraft-configs: v1.0.1
     
