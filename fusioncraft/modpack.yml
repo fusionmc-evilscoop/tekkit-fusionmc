@@ -1,0 +1,38 @@
+launcher: 0.5.0
+current: 1.0.0
+recommended: 1.0.0
+latest: 1.0.0
+lib-1: &lib-1
+    commons-io: 2.1
+    commons-lang3: 3.1
+    guava: 10.0.1
+    joda-time: 2.0
+    slick: 0.3
+    snakeyaml: 1.9
+    trove4j: 3.0.1
+builds:
+    1.0.0:
+        libraries:
+        minecraft: 1.2.5
+        mods:
+            basemods: fusioncraft-v1.0.0
+            balkonsweaponmod: v8.6
+            buildcraft: v2.2.14
+            buildcraft-objects: v97
+            buildcraft-additionalpipes: v2.1.3
+            enderstorage: v1.1.3
+            forestry: v1.4.8.4_bc2.2
+            forestryextrabees: v1.2.1
+            ic2: v1.97
+            ic2-advancedmachines: v4.1
+            ic2-advancedsolars: v3.0.0
+            inventorytweaks: v1.41b
+            ironchests: v3.6.1.34
+            matmos: v12
+            morepistons: v1.0
+            nei: v1.2.2r2
+            powerconverters: v1.3.4
+            redpower: v2.0.5b2
+            reisminimap: v3.2_04
+            z-fusioncraft-configs: v1.0.1
+    

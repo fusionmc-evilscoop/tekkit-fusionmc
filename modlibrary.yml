@@ -6,12 +6,64 @@ mods:
         modtype: "content"
         link: ""
         versions:
+            hackslashmine-v0.6.0:
+            hackslashmine-v0.5.3:
+            hackslashmine-v0.5.2:
+            hackslashmine-v0.4:
+            spotlight-forge-v1.0.0:
+            vanilla-v12w30c:
+            vanilla-v12w30b:
+            vanilla-v12w30a:
+            vanilla-v12w27a:
+            vanilla-v12w26a:
+            vanilla-v12w25a:
+            vanilla-v1.2.5:
+            vanilla-v1.2.3:
+            vanilla-v1.3.1:
+            vanilla-v1.3.1(with-map):
+            yogbox-v1.2.5:
+            yogbox-v1.2.1:
+            yogbox-v1.2.0:
+            yogbox-v1.1.6:
+            yogbox-v1.1.5:
+            yogbox-v1.1.2:
+            yogbox-v1.1.1:
+            yogbox-v1.1.0:
+            vanilla-v1.1:
+            technic-no-optifine:
+            technic-v7.1.0:
+            technic-v7.0.1:
+            technic-v7.0.0:
+            technic-v6.1.1:
+            technic-v6.1.0:
+            technic-v6.0.7:
+            technic-v6.0.6:
+            technic-v6.0.5:
+            technic-v6.0.3:
+            technic-v6.0.2:
+            technic-v6.0.1:
+            technic-v6.0.0:
+            tekkit-v3.0.3:
+            tekkit-v3.0.2:
+            tekkit-v3.0.1:
+            tekkit-v3.0.0-smooth:
+            tekkit-v3.0.0:
+            tekkit-v2.0:
+            v1.3.0:
+            v1.2.1y:
+            v1.2.0-S:
+            v1.2.0:
+            v5.0.5:
+            tekkit-v2.0.0:
+            voxelmodpack-v8.1.0:
+            voxelmodpack-v8.2.0:
+            voxelmodpack-v8.3.0:
+            fusioncraft-v1.0.0:
             jackcraft-v3.0.4:
             jackcraft-v3.0.5:
             jackcraft-v4.0.0:
             jackcraft-v4.0.1:
             jackcraft-v4.0.3:
-            jackcraft-v1.3.2:
     adventureitems:
         name: "Adventure Items"
         installtype: "zip"
@@ -65,7 +117,6 @@ mods:
         modtype: "content"
         link: "http://www.mod-buildcraft.com/"
         versions:
-            v3.2.0pre7:
             v3.1.5:
             v3.1.4:
             v3.1.4pre:
@@ -103,7 +154,6 @@ mods:
     buildcraft-logisticspipes:
         installtype: "zip"
         versions:
-            v0.5.1pre9:
             v0.2.5b:
             v0.2.4a:
             v0.2.2a:
@@ -162,7 +212,6 @@ mods:
         modtype: "content"
         link: "http://www.minecraftforum.net/topic/892282-11-computercraft-121/"
         versions:
-            v1.43:
             v1.33:
             v1.31:
             v1.3:
@@ -281,7 +330,6 @@ mods:
         modtype: "content"
         link: "http://www.minecraftforum.net/topic/700588-100smp-forestry-for-minecraft-tree-farms-automated/"
         versions:
-            v1.5.0.2:
             v1.4.8.4_bc2.2:
             v1.4.6.2_bc2.2:
             v1.4.0.4:
@@ -309,7 +357,6 @@ mods:
         modtype: "content"
         link: "http://forum.industrial-craft.net/index.php?page=Board&boardID=58"
         versions:
-            v1.106:
             v1.97:
             v1.95b:
             v1.95:
@@ -335,7 +382,6 @@ mods:
         modtype: "content"
         link: "http://forum.industrial-craft.net/index.php?page=Thread&threadID=1174"
         versions:
-            v1.6:
             v4.1:
             v4.0:
             v3.6e:
@@ -346,7 +392,6 @@ mods:
         description: ""
         installtype: "zip"
         versions:
-            v3.1.0:
             v3.0.0:
     ic2-compactsolars:
         name: "IC2 Compact Solars"
@@ -536,7 +581,6 @@ mods:
         name: "Not Enough Items"
         installtype: "zip"
         versions:
-            v1.3.2:
             v1.2.2r2:
             v1.2.2:
             v1.2.0:
@@ -584,7 +628,6 @@ mods:
         modtype: "content"
         link: "http://www.minecraftforum.net/topic/701990-100-railcraft-221-forge-smp/"
         versions:
-            v6.4.1.0:
             v5.3.3:
             v5.3.2:
             v5.2.4:
@@ -644,7 +687,6 @@ mods:
         link: "http://www.minecraftforum.net/topic/482147-100b181b19pre5jan01-reis-minimap-v29-01/"
         optional: true
         versions:
-            v3.2_05:
             v3.2_04:
             v3.0_04-1.2.5:
             v3.0_04:
@@ -899,3 +941,10 @@ mods:
             v4.0.0:
             v3.0.5:
             v3.0.4:
+    z-fusioncraft-configs:
+        name: "FusionCraft Configs"
+        description: "A collection of configuration files for fusioncraft pack"
+        installtype: "zip"
+        versions:
+            v1.0.1:
+            
