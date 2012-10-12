@@ -771,7 +771,7 @@ mods:
             v1.1:
             v1.1yb:
             v1.2.3yb:
-    secretrooms:
+    secretroom:
         installtype: "zip"
         versions:
             v1:
@@ -806,7 +806,7 @@ mods:
     thermal:
         installtype: "zip"
         versions:
-            v1.0.4.3bc2:
+            v1.0.4.3:
     thaumcraft:
         name: "Thaumcraft"
         installtype: "zip"
@@ -1025,4 +1025,4 @@ mods:
         installtype: "zip"
         versions:
             v1.0.1:
-            
+            v1.0.2:    
